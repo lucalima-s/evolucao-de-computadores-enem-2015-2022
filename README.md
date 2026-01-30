@@ -35,7 +35,8 @@ Fonte: Elaborado pelo autor, com base nos dados do Inep, 2024
 Na figura 2, de forma similar, apresenta-se a evolução da quantidade de computadores, só que nas regiões da Amazônia legal,  também ao longo dos anos de 2015 a 2022, com o objetivo de analisar no âmbito da Amazônia o crescimento desta tecnologia.   Neste caso, as três  linhas coloridas representam as regiões: Centro-Oeste, Nordeste e Norte da Amazônia.  
 Na figura, é possível ilustrar que, enquanto a região do Centro-Oeste (linha azul) mantém uma relativa estabilidade com oscilações mínimas, o Nordeste (linha laranja) apresenta uma constância em níveis mais baixos de posse de tecnologia.
 
-Figura 2: Evolução da Quantidade de Participantes com posse/não-posse de computadores por Região na Amazônia Legal
+Figura 2: Evolução da Quantidade de Participantes com posse/não-posse de computadores por Região na Amazônia Legal 
+
 ![Amazonia](<Resultados/Evolução da Quantidade de Computadores por Região na Amazônia.png>)
 
 Fonte: Elaborado pelo autor, com base nos dados do Inep, 2024
